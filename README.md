@@ -8,6 +8,8 @@ This projet was created for the *Stopping – Montréal* Adaptive Actions worksh
 * If they to try to visit a Website, they are redireccted to the live camera feed
 * I.e. if they try to escape the space, they are redirected to it
 
+A similar project : https://github.com/idolpx/mobile-rr
+
 ## Logging in
 
 ![Logging in](STOP_PING_logging_in.gif)
