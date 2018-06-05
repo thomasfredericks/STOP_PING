@@ -8,6 +8,16 @@ This projet was created for the *Stopping – Montréal* Adaptive Actions worksh
 * If they to try to visit a Website, they are redireccted to the live camera feed
 * I.e. if they try to escape the space, they are redirected to it
 
+## Logging in
+
 ![Logging in](STOP_PING_logging_in.gif)
 
+## Broswing to any page
+
 ![Browsing](STOP_PING_browsing.png)
+
+## Hardware
+
+https://www.robotshop.com/en/arducam-2mp-v2-mini-camera-shield-esp8266-nano-module.html
+
+![Arducam 2MP V2 Mini Camera Shield w/ ESP8266 Nano Module](STOP_PING_hardware.gif)
